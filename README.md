@@ -1,0 +1,4 @@
+hawkPdfSearch
+=============
+
+WHY HAWK PDF SEARCH JAVA  1) In all pdf readers and viewers, only tagword search is available. Smart text search has been missing for many years. 2) Improve pdf search and find out desired text without going through full text. 3) Java api can be integrated in many codes and tools related to document search. 4) Why pdf search?? You can convert all document types available to pdf.  ABOUT THIS VERSION  1) In this version 'Arabian Nights' pdf which is freely available over the internet is given for the example written below. 2) Indexes are created for line or paragraph or page search and all pages are searchable. 3) Searching results shows matching text details (Full Details are available - Page Number, Text, Score, Paragraph Number) 4) All functions are public (Except some due to programming convention) and accessible. 5) New Improved full version will be available soon :)  >> Visit http://geekdadaji.com for more details and updates
